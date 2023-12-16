@@ -8,7 +8,7 @@
 
 🌱 Embarking on my 4rd semester, navigating hands-on challenges. 🌿
 
-💻 Mainly working with **Python** and **C/C++**, dabbled in R, JavaScript, HTML/CSS. 🌐
+💻 Mainly working with **Python**, dabbled in **C/C++**, R, JavaScript, HTML/CSS. 🌐
 
 🎨 Despite a passion for art, I've embraced informatics, aiming to bridge tech and creativity. 🎭
 
