@@ -10,7 +10,7 @@
 
 💻 Mainly working with **Python**, dabbled in **C/C++**, R, JavaScript, HTML/CSS. 🌐
 
-🎨 Despite a passion for art, I've embraced informatics, aiming to bridge tech and creativity. 🎭
+🎨 Despite my passion for art, I've embraced informatics, aiming to bridge tech and creativity. 🎭
 
 🌈 Join me in exploring the intersection of art, logic, and technology. 🚀
 
