@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello there, reader 👋
 
-👋 Hello there, I'm George, a 22yo informatics student in **Austria**, originally from Romania. 🌍
+👋 I'm George, a 22yo informatics student in **Austria**, originally from Romania. 🌍
 
-📚 In my 5th semester, studying **informatics** at IMC FH Krems *\*PC sounds*\*. 💻
+📚 In my 5th semester, studying **informatics** at IMC FH Krems. *\*PC sounds*\* 💻
 
 🧠 Where's a problem, there's a solution. Even if it feels NP-hard. ➕➖✖️
 
