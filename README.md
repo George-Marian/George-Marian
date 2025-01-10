@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-👋 Hey, I'm George, a 21yo informatics student in **Austria**, originally from Romania. 🌍
+👋 Hello there, I'm George, a 22yo informatics student in **Austria**, originally from Romania. 🌍
 
-📚 Currently immersed in **informatics** at IMC FH Krems, exploring the complexities of software engineering and data science. 💻
+📚 In my 5th semester, studying **informatics** at IMC FH Krems '*'PC sounds'*'. 💻
 
-🧠 Math enthusiast, fast thinker, and solution-oriented individual. ➕➖✖️
-
-🌱 Embarking on my 4rd semester, navigating hands-on challenges. 🌿
+🧠 Where's a problem, there's a solution. Even if it feels NP-hard. ➕➖✖️
 
 💻 Mainly working with **Python**, dabbled in **C/C++**, R, JavaScript, HTML/CSS. 🌐
 
-🎨 Despite my passion for art, I've embraced informatics, aiming to bridge tech and creativity. 🎭
+🎨 Love the artsy, also to cook, so I can say I'll see myself doing an amazing art-tech soup soon. 🎭🍲
 
 🌈 Join me in exploring the intersection of art, logic, and technology. 🚀
 
